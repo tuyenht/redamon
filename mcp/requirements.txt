@@ -9,7 +9,7 @@
 # semgrep, and every MCP server dies on import. fastmcp 3.2.4 is the newest
 # release that still supports mcp<2.0,>=1.24.0 (satisfied by 1.29.0) and does not
 # import request_state, so keep fastmcp on 3.x to stay compatible with semgrep.
-fastmcp==3.2.4
+fastmcp==3.4.10
 
 # MCP SDK (core protocol implementation). Pinned to the version semgrep forces so
 # the resolver cannot silently skew it against fastmcp above.
