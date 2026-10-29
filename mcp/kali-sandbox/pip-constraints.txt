@@ -11,4 +11,4 @@
 # A constraint only binds a package if something else pulls it in; it never
 # installs a package on its own. Keep this in sync with requirements.txt.
 mcp==1.29.0
-fastmcp==3.2.4
+fastmcp==3.4.10
