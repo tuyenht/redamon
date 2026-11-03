@@ -4,7 +4,7 @@
 
 # Core dependencies
 python-whois==0.9.6          # WHOIS lookups
-dnspython==2.8.0             # DNS resolution
+dnspython==2.9.0             # DNS resolution
 requests>=2.31.0             # HTTP requests
 urllib3>=2.0.0               # HTTP library
 
